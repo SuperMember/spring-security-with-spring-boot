@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 /*
-* 登录验证
+* 登录验证:springboot
 * */
 @Controller
 public class UserController {
